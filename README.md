@@ -1,2 +1,2 @@
 # ListViewWithTextAreaCellFactory
-Correctly workking ListView with TextArea implementing a cellFactory
+Correctly working ListView with TextArea implementing a cellFactory
